@@ -30,7 +30,7 @@
     "webpack-dev-server": "3.11.0"
   },
   "dependencies": {
-    "cesium": "1.77.0",
+    "cesium": "1.79.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "resium": "1.13.1"
